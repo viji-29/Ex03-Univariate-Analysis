@@ -25,4 +25,8 @@ STEP 7 Save the final data set into the file
 
 PROGRAM:
 
-
+import pandas as pd
+import numpy as np
+import seaborn as snb
+df =
+pd.read_csv('/content/SuperStore.csv') 
